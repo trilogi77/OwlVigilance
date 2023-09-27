@@ -64,3 +64,14 @@ We have Setted up Virus total!!!
 
 You'll need to go to [UrlScan](https://urlscan.io/) and create an account
 
+![urlscan](Images/urlscan.png)
+-
+![urlscan](Images/urlscan2.png)
+
+Once you are registered you can go to your profile and create an api key
+
+![urlscan](Images/urlscan3.png)
+
+Then you copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+
+
