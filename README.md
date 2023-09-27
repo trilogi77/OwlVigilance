@@ -95,7 +95,7 @@ Then you copy the api key and go again to the channel **OwlSetup** and write "!U
     ![GoogleSafeSearch](Images/googleSafesearch8.png)
 10. Now you have the API key that we need
     ![GoogleSafeSearch](Images/googleSafesearch9.png)
-11. copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+11. copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that google provided you.
    
 
 **WE HAVE THE BOT CONFIGURED :D**
