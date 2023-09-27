@@ -72,6 +72,30 @@ Once you are registered you can go to your profile and create an api key
 
 ![urlscan](Images/urlscan3.png)
 
-Then you copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+Then you copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that urlScan provided you.
 
+#### Google Safe Search
 
+1. Go to [Google Developer Console](https://console.developers.google.com/)
+2. Sign in with your google account
+3. Create a new project
+   ![GoogleSafeSearch](Images/googleSafesearch.png)
+   ![GoogleSafeSearch](Images/googleSafesearch2.png)
+4. Put the name of the project (not relevant so place whatever you want) and press create
+   ![GoogleSafeSearch](Images/googleSafesearch3.png)
+5. Now go to Library
+   ![GoogleSafeSearch](Images/googleSafesearch4.png)
+6. Search for "Safe browsing api" and select the one that is not legacy
+   ![GoogleSafeSearch](Images/googleSafesearch5.png)
+7. press enable
+   ![GoogleSafeSearch](Images/googleSafesearch6.png)
+8. Now go to credential
+   ![GoogleSafeSearch](Images/googleSafesearch7.png)
+9. Create credentials --> API key
+    ![GoogleSafeSearch](Images/googleSafesearch8.png)
+10. Now you have the API key that we need
+    ![GoogleSafeSearch](Images/googleSafesearch9.png)
+11. copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+   
+
+**WE HAVE THE BOT CONFIGURED :D**
