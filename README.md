@@ -6,6 +6,14 @@ Discord bot For your security
 ## Objective
 The objective of this bot is to get cybersecurity closer to the public and make safer for everyone to be in public discord chats.
 
+## Functionality
+
+This bot will read any message sent in the channels where it has access, check if there is any URL on it, and if found a URL then will check with some platforms if it's malicious.
+
+Depending on the output of the searches it will remove the message or reply to it with a warning.
+
+You can check the porcces in [DeeperInfo](DeeperInfo.md#owlvigilance-work)
+
 # Configuration
 
 ## Permisions requested
@@ -35,7 +43,7 @@ Make sure that the channel OwlSetup is only accesible by the bot, by you and onl
 
 ### API keys
 
-For having complete functionality you'll need to configure the bot providing it the api keys for Virus total, URLscan.io and googlesafesearch. (The bot won't store this credentials in the server, you can check how that works in [Link])
+For having complete functionality you'll need to configure the bot providing it the api keys for Virus total, URLscan.io and googlesafesearch. (The bot won't store this credentials in the server, you can check how that works in [DeeperInfo](DeeperInfo.md#how-does-the-bot-get-the-api-keys))
 
 The next steps are how to get the api keys
 
