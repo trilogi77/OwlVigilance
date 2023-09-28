@@ -19,3 +19,5 @@ The data stored by the bot contains:
 Whenever you configure the API key for either VirusTotal, google safe search or urlScan, the bot stores the Message ID and the Server ID for being able to retrieve the api key when needed.
 
 This way the only place where the API key is stored is in the Channel, and can be deleted anytime by the user without having to write any commands to the bot.
+
+If you sent a new command to configure one of the api keys the message ID will be set up to the new one.
