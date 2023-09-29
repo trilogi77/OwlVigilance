@@ -3,6 +3,9 @@
 # OwlVigilance
 Discord bot For your security
 
+*Note: This bot is not 100% trustable, even if the bot doesn't detect an URL as malicious you should never trust it if you don't know it*
+
+**Current version: 0.01 (beta)**
 ## Objective
 The objective of this bot is to get cybersecurity closer to the public and make safer for everyone to be in public discord chats.
 
@@ -12,7 +15,7 @@ This bot will read any message sent in the channels where it has access, check i
 
 Depending on the output of the searches it will remove the message or reply to it with a warning.
 
-You can check the porcces in [DeeperInfo](DeeperInfo.md#owlvigilance-work)
+You can check the proccess in [DeeperInfo](DeeperInfo.md#owlvigilance-work)
 
 # Configuration
 
@@ -34,12 +37,12 @@ At this momment the bot will work but will be really limited.
 ### New channels
 
 You should create 2 new text channels in your server:
-* OwlSetup
-* OwlLogs
+* owlsetup
+* owllogs
 
 The first one is compulsory for having the bot with complete functionality, the second one is only needed for having the information of the executions from the bot.
 
-Make sure that the channel OwlSetup is only accesible by the bot, by you and only by really trusted persons (preferably only you)
+Make sure that the channel owlsetup is only accesible by the bot, by you and only by really trusted persons (preferably only you)
 
 ### API keys
 
@@ -63,7 +66,9 @@ Now you'll have an api key, do not share this key with anyone it's your personal
 
 ![virustotal](Images/virusTotal3.png)
 
-Now that you have the API key from virus total you can go to the channel **OwlSetup** and write "!VT <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+Now that you have the API key from virus total you can go to the channel **owlsetup** and write "!VT <API_KEY>" where <API_KEY> should be substituted by the API key that virus total provided you.
+
+![virustotal](Images/virusTotal4.png)
 
 We have Setted up Virus total!!!
 
@@ -80,7 +85,9 @@ Once you are registered you can go to your profile and create an api key
 
 ![urlscan](Images/urlscan3.png)
 
-Then you copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that urlScan provided you.
+Then you copy the api key and go again to the channel **owlsetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that urlScan provided you.
+
+![urlscan](Images/urlscan4.png)
 
 #### Google Safe Search
 
@@ -113,7 +120,8 @@ Then you copy the api key and go again to the channel **OwlSetup** and write "!U
     
     ![GoogleSafeSearch](Images/googleSafesearch9.png)
 
-11. copy the api key and go again to the channel **OwlSetup** and write "!UrlScan <API_KEY>" where <API_KEY> should be substituted by the API key that google provided you.
-   
+11. copy the api key and go again to the channel **owlsetup** and write "!Google  <API_KEY>" where <API_KEY> should be substituted by the API key that google provided you.
+   ![GoogleSafeSearch](Images/googleSafesearch10.png)
+
 
 **WE HAVE THE BOT CONFIGURED :D**
