@@ -6,13 +6,13 @@ Discord bot Para tu seguridad
 *Nota: Este bot no es 100% fiable, incluso si el bot no lo detecta como malicioso nunca debes confiar en una URL que no conoces*
 
 **Versión actual: 0.02 (beta)**
-## Version updates:
+## Notas de versiones:
 **version: 0.02**
 * Pequeña mejora en la detección de enlaces de amazon
 * Añadidos multiprocesos en las peticiones a las APIs
 
 **version: 0.01**
-*Bot publicado
+* Bot publicado
 
 ## Objetivo
 El objetivo de este bot es acercar la ciberseguridad al público y hacer más seguro para todo el mundo estar en un chat público de discord.

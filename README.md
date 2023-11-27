@@ -12,7 +12,7 @@ Discord bot For your security
 * Added multiprocessing in API requests
 
 **version: 0.01**
-*release of the bot
+* release of the bot
 ## Objective
 The objective of this bot is to get cybersecurity closer to the public and make safer for everyone to be in public discord chats.
 
