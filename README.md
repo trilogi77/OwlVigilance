@@ -5,13 +5,20 @@ Discord bot For your security
 
 *Note: This bot is not 100% trustable, even if the bot doesn't detect an URL as malicious you should never trust it if you don't know it*
 
-**Current version: 0.01 (beta)**
+**Current version: 0.02 (beta)**
+## Version updates:
+**version: 0.02**
+* Small updates on detection on amazon links
+* Added multiprocessing in API requests
+
+**version: 0.01**
+release of the bot
 ## Objective
 The objective of this bot is to get cybersecurity closer to the public and make safer for everyone to be in public discord chats.
 
 ## Functionality
 
-This bot will read any message sent in the channels where it has access, check if there is any URL on it, and if found a URL then will check with some platforms if it's malicious.
+This bot will read any message sent in the channels where it has access, it will check if there is any URL on it, and if found a URL then will check with some platforms if it's malicious.
 
 Depending on the output of the searches it will remove the message or reply to it with a warning.
 
