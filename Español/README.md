@@ -12,7 +12,7 @@ Discord bot Para tu seguridad
 * Añadidos multiprocesos en las peticiones a las APIs
 
 **version: 0.01**
-Bot publicado
+*Bot publicado
 
 ## Objetivo
 El objetivo de este bot es acercar la ciberseguridad al público y hacer más seguro para todo el mundo estar en un chat público de discord.
